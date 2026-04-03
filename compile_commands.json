@@ -2,6 +2,7 @@
   {
     "arguments": [
       "/usr/bin/g++",
+      "-O3",
       "-Wshadow",
       "-Winit-self",
       "-Wredundant-decls",
@@ -58,6 +59,7 @@
   {
     "arguments": [
       "/usr/bin/g++",
+      "-O3",
       "-Wshadow",
       "-Winit-self",
       "-Wredundant-decls",
@@ -114,6 +116,7 @@
   {
     "arguments": [
       "/usr/bin/g++",
+      "-O3",
       "-Wshadow",
       "-Winit-self",
       "-Wredundant-decls",

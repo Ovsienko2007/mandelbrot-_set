@@ -10,5 +10,6 @@ struct params_t{
     float speed;
 };
 
-int calculate_set(uint32_t *pixel_colors, SDL_Surface *screen, params_t params);
+int calculate_set(SDL_Surface *screen, params_t params);
+
 #endif
